@@ -1,0 +1,10 @@
+ApplicationVersion = 1.0.0
+GenerateApplicationBundle = true
+ApplicationBundle = com.rs.layouts.metroui
+ApplicationIdentity = a1855c7e-e488-4287-9699-1e52aff6c5e7
+ApplicationTitle = Metro UI
+ApplicationVendor = com.rs.layouts
+RMABVersion = 2.2.0.v20151007-40
+LicenseManagers = {"activeLicenseManager":"Development","licenseManagers":{"Production":"","Development":"http://dor-vm-0096.rocketsoftware.com:8080/rhub"}}
+MaxGraceCount = 0
+RequireUserCredentials = false
